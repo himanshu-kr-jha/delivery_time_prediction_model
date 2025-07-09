@@ -4,4 +4,9 @@ pandas==2.3.1
 Requests==2.32.4
 streamlit==1.46.1
 streamlit_folium==0.25.0
-scikit-learn
+scikit-learn>=1.0
+numpy
+pandas
+joblib
+xgboost       # remove if not used
+lightgbm      # remove if not used
