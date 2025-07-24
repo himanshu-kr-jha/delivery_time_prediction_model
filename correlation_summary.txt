@@ -1,2 +1,0 @@
-Pearson Correlation Coefficient between Courier Experience and Delivery Time: -0.0904
-P-value: 4.8224e-03
